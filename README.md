@@ -56,6 +56,8 @@ This project gave me the opportunity to get into GitHub, Teensy 3.2 ,Serial Comm
 3.To know the using of serial communication and ASCII converstion.
 [https://www.oreilly.com/library/view/arduino-cookbook/9781449399368/ch04.html](https://www.oreilly.com/library/view/arduino-cookbook/9781449399368/ch04.html)
 
+##Video
+Youtube Link :-https://www.youtube.com/watch?v=ufNscfYshCA
 
 
 
